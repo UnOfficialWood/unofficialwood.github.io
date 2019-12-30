@@ -1,0 +1,15 @@
+canvas {
+    //background: #b61924;
+    background: #212121;
+    position: absolute;
+}
+#input {
+    position: absolute;
+    z-index: 1;
+}
+body {
+    overflow: hidden;
+    margin: 0;
+    width: 100%;
+    height: 100%;
+}
