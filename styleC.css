@@ -1,0 +1,19 @@
+html, body {
+    overflow: auto;
+    height: 100%;
+    width: 100%;
+}
+.content {
+
+    height: auto;
+    background: #fff;
+}
+.nav-item {
+    color: #303C5C;
+}
+.navbar-brand {
+    color: #303C5C;
+}
+.active {
+    color: #C2271F;
+}
